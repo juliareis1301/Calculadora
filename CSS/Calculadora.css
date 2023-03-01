@@ -39,6 +39,7 @@ body {
     color: white;
     margin: 3px;
     border:none;
+    text-align: center;
    
 }
 
@@ -55,4 +56,5 @@ body {
     font-size: 25px;
     color:black;
     text-align: right;
+    word-wrap: break-word;
 }
